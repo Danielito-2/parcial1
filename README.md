@@ -54,3 +54,4 @@ Se define la clase **Librito** con los siguientes elementos:
 - **Método devolución:** reduce ejemplares prestados si existen en préstamo.  
 - **Método `toString`:** imprime información del libro.  
 
+## El UML lo subo como imagen al repositorio. 
